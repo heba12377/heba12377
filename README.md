@@ -1,9 +1,9 @@
 <h1 align="center">  Hi, I'm Heba El-Said! 👋</h1>
 
-
+<p align="center">
 
 I'm a full stack developer with JS and Iam  interested in backend development using NodeJS and .NET . Currently, I am learning and focusing on the backend and everything related to the world of backend development.
-
+</p>
 
 🌍  I'm based in Egyptz
 
