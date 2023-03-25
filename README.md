@@ -17,5 +17,6 @@ I'm a full stack developer with JS and Iam  interested in backend development us
 ## 🛠 Skills
 
 
- <img src="https://user-images.githubusercontent.com/71638009/227721721-f1e5bcea-688c-4e58-8c2c-e944ca5c730b.png" width="180">        <img src="https://user-images.githubusercontent.com/71638009/227722002-c6deabc3-f5f6-475d-bc62-d4d2e474dc5f.png" width="180">
+ <img src="https://user-images.githubusercontent.com/71638009/227721721-f1e5bcea-688c-4e58-8c2c-e944ca5c730b.png" width="180">        <img src="https://user-images.githubusercontent.com/71638009/227722105-7e2a43c6-f2d6-4471-ba2d-b3220d23ad65.png" width="180">
+
 
