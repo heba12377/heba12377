@@ -5,7 +5,7 @@
 I'm a full stack developer with JS and Iam  interested in backend development using NodeJS and .NET . Currently, I am learning and focusing on the backend and everything related to the world of backend development.
 </p>
 
-🌍  I'm based in Egyptz
+🌍  I'm based in Egypt
 
 🚀  I'm ITI trainee || system development & BI 
 
