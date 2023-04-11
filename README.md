@@ -2,7 +2,7 @@
 
 <p align="center">
 
-I'm a full stack developer with JS and Iam  interested in backend development using NodeJS and .NET . Currently, I am learning and focusing on the backend and everything related to the world of backend development.
+An aspiring, innovative, highly disciplined Full-Stack Developer who has recently graduated from ITI with Angular, Nodejs and .Net frameworks. Seeking to be part of a reputable organization where I can cooperate with my colleagues towards achieving company goals in spreading technological awareness and driving digital transformation through Cutting- edge technologies
 </p>
 
 🌍  I'm based in Egypt
