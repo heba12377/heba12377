@@ -4,7 +4,7 @@ An aspiring, innovative, highly disciplined Full-Stack Developer who has recentl
 
 🌍  I'm based in Egypt
 
-🚀  I'm ITI trainee || system development & BI 
+🚀  I'm ITI trainee || Profesional Web Development & BI 
 
 🧠 I'm currently learning .NET
 
