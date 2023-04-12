@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heba El-Said!</h1>
-<h3 align="center">An aspiring, innovative, highly disciplined Full-Stack Developer who has recently graduated from ITI with Angular, Nodejs and .Net frameworks. Seeking to be part of a reputable organization where I can cooperate with my colleagues towards achieving company goals in spreading technological awareness and driving digital transformation through Cutting- edge technologies</h3>
+An aspiring, innovative, highly disciplined Full-Stack Developer who has recently graduated from ITI with Angular, Nodejs and .Net frameworks. Seeking to be part of a reputable organization where I can cooperate with my colleagues towards achieving company goals in spreading technological awareness and driving digital transformation through Cutting- edge technologies
 
 🌍  I'm based in Egypt
 
