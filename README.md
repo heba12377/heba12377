@@ -22,7 +22,7 @@ An aspiring, innovative, highly disciplined Full-Stack Developer who has recentl
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=heba12377&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=heba12377&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heba12377&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heba12377&theme=midnight-purple&hide_border=false)<br/>
 
