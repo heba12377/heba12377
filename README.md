@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heba El-Said!</h1>
-A software developer specialized in backend web development, proficient in Nodejs,.NET framework, MVC, and WebAPIs.Recently graduated from the Information Technology Institute with a strong technical skillset.
+A software developer specialized in backend web development, proficient in Nodejs, .NET framework, MVC, and WebAPIs.Recently graduated from the Information Technology Institute with a strong technical skillset.
 <br><br>
 
 🌍  I'm based in Egypt
