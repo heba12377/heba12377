@@ -4,7 +4,7 @@ A software developer specialized in backend web development, proficient in Nodej
 
 🌍  I'm based in Egypt
 
-🚀  I'm ITI trainee || Profesional Web Development & BI 
+🚀 Profesional Web Development & BI 
 
 🧠 I'm currently learning .NET
 
